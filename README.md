@@ -21,3 +21,4 @@ With this app, you can create a Minecraft: PaperMC server for free on your andro
 * Minecraft 1.17 requires at least Java 16 and Minecraft 1.18 requires at least Java 17.
 * On some very, very old Android devices, you can only create a Minecraft: PaperMC server for 1.16.5 and below because these devices do not support Java 11 and up.
 * This software is in a very early alpha stadium and it can be discontinued at any time.
+* There's also the application "MineDroid-Launcher". This app is also from me and with it, you can launch Minecraft: Java Edition on Android devices!
